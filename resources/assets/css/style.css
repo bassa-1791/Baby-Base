@@ -256,3 +256,13 @@
   top: 30px;
   transform: rotate(45deg);
 }
+
+
+/** ブロック一覧 */
+.product-block {
+  display: flex;
+  align-items: center;
+}
+.product-block p {
+  margin-right: auto;
+}
