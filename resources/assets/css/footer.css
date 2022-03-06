@@ -25,3 +25,9 @@
 .footer-bottom-item a:hover {
   text-decoration: underline;
 }
+
+.footer-copyright{
+  text-align: center;
+  list-style: none;
+  font-size: small;
+}

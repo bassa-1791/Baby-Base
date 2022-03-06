@@ -77,7 +77,7 @@
           <a href="#">特定商取引法に基づく表示</a>
         </li>
       </ul>
-      <small class="footer-copyright">&copy; Baby-base, inc.</small>
+      <li class="footer-copyright">&copy; Baby-base, inc.</li>
     </div>
   </footer>
 
